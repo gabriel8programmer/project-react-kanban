@@ -3,7 +3,12 @@
 A task management project created during the React with TypeScript course on the OneBitCode platform.
 
 ## Project Preview
+
+![add new task](https://github.com/user-attachments/assets/0de3a400-e813-469a-a1a9-3c8829015438)
+
 ![demonstration](https://github.com/user-attachments/assets/589e413d-694d-4713-8430-75274ea2d847)
+
+
 
 ## Features
 
