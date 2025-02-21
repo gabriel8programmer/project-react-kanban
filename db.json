@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Formatar o PC",
+      "description": "Formate o PC e instale programas essenciais para programar",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Atualizar drivers",
+      "description": "Baixe e instale os drivers mais recentes para garantir compatibilidade",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "title": "Criar repositório no GitHub",
+      "description": "Crie um repositório para o novo projeto e configure o Git",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "title": "Aprender sobre Firebase",
+      "description": "Estudar autenticação e Firestore para o novo projeto",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "5",
+      "title": "Planejar arquitetura do backend",
+      "description": "Definir as rotas e a estrutura do banco de dados",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "id": "6",
+      "title": "Desenvolver API de autenticação",
+      "description": "Criar endpoints de login, registro e redefinição de senha",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "7",
+      "title": "Testar API com Postman",
+      "description": "Realizar testes nos endpoints criados e corrigir bugs",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "8",
+      "title": "Criar interface de login",
+      "description": "Desenvolver a tela de login no frontend",
+      "status": "doing",
+      "priority": "high"
+    },
+    {
+      "id": "9",
+      "title": "Otimizar carregamento de imagens",
+      "description": "Reduzir tamanho e melhorar a performance do app",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "id": "10",
+      "title": "Publicar o projeto na Vercel",
+      "description": "Hospedar o backend e frontend na Vercel",
+      "status": "done",
+      "priority": "high"
+    }
+  ]
+}
